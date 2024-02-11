@@ -1,6 +1,6 @@
 package com.ugarchance.jwttoken.config;
 
-import com.ugarchance.jwttoken.user.User;
+
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
